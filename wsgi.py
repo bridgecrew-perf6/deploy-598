@@ -13,7 +13,8 @@ cur_dir = os.getcwd()
 print(cur_dir)
 
 # 에러 출력을 표준출력으로 보낸다
-sys.stdout = sys.stderr()
+sys.stdout = sys.stderr
+
 # path 설정
 sys.path.insert(0, cur_dir)
 
