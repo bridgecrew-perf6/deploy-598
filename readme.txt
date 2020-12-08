@@ -27,8 +27,8 @@
         - 커밋 메시지 작성
         - 커밋 
             - 에러 : make sure you configure your 'user.name' and 'user email' in git
-            - 조치 : 
-                $ git config --global user.name "본인이름"
-                    ex) $ git config --global user.name "simoon136"
-                $ git config --global user.email ""
-                    ex) $ git config --global user.email "simoon3568@gmail.com"
+        - 공통 처리 : 
+            $ git config --global user.name "본인이름"
+                ex) $ git config --global user.name "simoon136"
+            $ git config --global user.email ""
+                ex) $ git config --global user.email "simoon3568@gmail.com"
